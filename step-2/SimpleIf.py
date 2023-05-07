@@ -1,5 +1,4 @@
-print("Enter number : ")
-num = int(input())
+num = int(input("enter number : "))
 
 if num%2 == 0:
     print("your input is even number")
